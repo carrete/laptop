@@ -1,0 +1,11 @@
+deb http://nl.archive.ubuntu.com/ubuntu/ cosmic main restricted universe multiverse
+deb-src http://nl.archive.ubuntu.com/ubuntu/ cosmic main restricted universe
+
+deb http://nl.archive.ubuntu.com/ubuntu/ cosmic-updates main restricted universe multiverse
+deb-src http://nl.archive.ubuntu.com/ubuntu/ cosmic-updates main restricted universe
+
+deb http://nl.archive.ubuntu.com/ubuntu/ cosmic-backports main restricted universe multiverse
+
+deb http://security.ubuntu.com/ubuntu cosmic-security main restricted universe multiverse
+
+deb http://archive.canonical.com/ cosmic partner
